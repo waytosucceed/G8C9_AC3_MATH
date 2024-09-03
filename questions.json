@@ -1,0 +1,222 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "While travelling to the picnic spot by bus, there were two traffic lights on a street which changed every 48 seconds and 72 seconds respectively. If they both change at the same time at 8:00 AM, after how many seconds will they change together again?",
+        "options": [
+            "120 seconds",
+            "144 seconds",
+            "216 seconds",
+            "360 seconds"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Three traffic lights on another street change every 20 seconds, 25 seconds, and 30 seconds respectively. If they all change together at a certain time, how many seconds will it take for all three lights to change together again?",
+        "options": [
+            "300 seconds",
+            "350 seconds",
+            "450 seconds",
+            "600 seconds"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "During the picnic, the students found two baskets of apples and oranges. The apples were packed in groups of 48 and the oranges in groups of 64. How many apples and oranges can be packed together in the largest possible equal-sized groups without leftover fruits?",
+        "options": [
+            "18",
+            "14",
+            "16",
+            "20"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Mr. Johnson brought 99 sandwiches and 143 juice boxes to the picnic. If he wants to distribute them into packs with the same number of sandwiches and juice boxes in each pack, what is the maximum number of packs he can create without any leftovers?",
+        "options": [
+            "11",
+            "13",
+            "19",
+            "33"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Mr. Johnson brought 15 balloons and 20 kites for the students. He wants to divide them into the smallest possible equal groups without any balloons or kites left over. How many items will each group contain?",
+        "options": [
+            "4",
+            "7",
+            "9",
+            "5"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q6",
+        "question": "During the picnic games, Team Blue scored 63 points and Team Red scored 105 points in the tug-of-war competition. If each team's points need to be divided into the largest possible equal-sized groups for analysis, how many points will each group contain?",
+        "options": [
+            "12",
+            "18",
+            "21",
+            "36"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7",
+        "question": "In the egg and spoon race, Participant A completed 51 rounds and Participant B completed 102 rounds. If the rounds need to be grouped into the largest possible equal-sized groups for analysis, how many rounds will each group contain?",
+        "options": [
+            "71",
+            "51",
+            "55",
+            "75"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Mr. Johnson brought 16 cupcakes and 24 cookies. He wants to make treat bags with the same number of cupcakes and cookies in each. What is the maximum number of treat bags he can make without any leftover items?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9",
+        "question": "During the scavenger hunt, the students collected 240 seashells and 320 pebbles. They want to arrange them into the largest possible equal-sized groups. How many items will each group contain?",
+        "options": [
+            "40",
+            "80",
+            "120",
+            "160"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10",
+        "question": "The students discovered two types of rare plants that bloom every 365 days and 730 days respectively. If both plants bloom today, in how many days will they bloom together again?",
+        "options": [
+            "730 days",
+            "1095 days",
+            "1460 days",
+            "1825 days"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q11",
+        "question": "During a team-building exercise, the students formed teams with 189 boys and 315 girls. If each team must have the same number of boys and girls, what is the largest possible number of students in each team?",
+        "options": [
+            "9",
+            "21",
+            "27",
+            "63"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q12",
+        "question": "Mr. Johnson plans to create identical packs of art supplies for the students. He has 315 crayons and 441 markers. What is the greatest number of identical packs he can make?",
+        "options": [
+            "69",
+            "63",
+            "53",
+            "59"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q13",
+        "question": "The students want to arrange 195 pencils and 286 erasers into the largest possible equal-sized groups for the picnic activities. How many items will each group contain?",
+        "options": [
+            "19",
+            "21",
+            "17",
+            "13"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q14",
+        "question": "During the picnic Mr. Johnson asked students to find the least number which is exactly divisible by 18, 24 and 36.",
+        "options": [
+            "68",
+            "70",
+            "72",
+            "74"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q15",
+        "question": "The product of two numbers is 1280 and their HCF is 8. What will be the LCM of the numbers?",
+        "options": [
+            "140",
+            "150",
+            "160",
+            "180"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q16",
+        "question": "During their picnic planning, the students discovered that the HCF and LCM of the number of chairs and tables needed were 12 and 336 respectively. If the number of chairs required was 84, what was the number of tables needed?",
+        "options": [
+            "56",
+            "48",
+            "38",
+            "68"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17",
+        "question": "During their exploration at the picnic, students were asked to find the smallest number when reduced by 2 becomes divisible by 24, 48 and 64.",
+        "options": [
+            "196",
+            "190",
+            "192",
+            "194"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q18",
+        "question": "Mr. Johnson wants to find the length of the tape for packing boxes. What is the greatest length of a tape whose whole length can be used to measure the lengths 56 cm and 140 cm exactly?",
+        "options": [
+            "26",
+            "28",
+            "30",
+            "32"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q19",
+        "question": "Mr. Johnson gave them a puzzle to solve that says: find the least number which is exactly divisible by 32, 36, 40 and 45.",
+        "options": [
+            "1442",
+            "1440",
+            "1240",
+            "1140"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q20",
+        "question": "In the picnic spot exploration they learned that the HCF of the two numbers is 96 and their LCM is 1296. If one of the numbers is 864, what is the other number?",
+        "options": [
+            "144",
+            "155",
+            "148",
+            "158"
+        ],
+        "correct": 0
+    }
+]
